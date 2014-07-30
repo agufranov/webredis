@@ -1,0 +1,35 @@
+{
+  "name": "webredis",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build/app.js",
+  "dependencies": {
+    "express": "^4.7.2",
+    "async": "^0.9.0",
+    "jade": "^1.5.0",
+    "nodemon": "^1.2.1",
+    "redis": "^0.11.0",
+    "redis-monitor": "^0.0.5"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.6",
+    "gulp-coffee": "^2.1.1",
+    "gulp-jade": "^0.7.0",
+    "gulp-nodemon": "^1.0.4",
+    "gulp-watch": "^0.6.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agufranov/webredis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agufranov/webredis/issues"
+  },
+  "homepage": "https://github.com/agufranov/webredis"
+}
